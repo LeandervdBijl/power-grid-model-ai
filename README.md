@@ -118,6 +118,13 @@ The concerning license files can be found in the
 Please read [CODE_OF_CONDUCT](https://github.com/PowerGridModel/.github/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING](https://github.com/PowerGridModel/.github/blob/main/CONTRIBUTING.md) for details on the process 
 for submitting pull requests to us.
 
+## Historical contributors
+Our gratitude goes to the following contributors who have worked (and are still working) on these services before it became open source:
+
+Camiel Oerlemans (Bright Cubes)
+Nitish Bharambe (Alliander)
+Martijn Govers (Bright Cubes)
+
 ## Citations
 
 If you are using Power Grid Model in your research work, please consider citing our library using the following
