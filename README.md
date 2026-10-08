@@ -121,9 +121,9 @@ for submitting pull requests to us.
 ## Historical contributors
 Our gratitude goes to the following contributors who have worked (and are still working) on these services before it became open source:
 
-Camiel Oerlemans (Bright Cubes)
-Nitish Bharambe (Alliander)
-Martijn Govers (Bright Cubes)
+- Camiel Oerlemans (Bright Cubes)
+- Nitish Bharambe (Alliander)
+- Martijn Govers (Bright Cubes)
 
 ## Citations
 
