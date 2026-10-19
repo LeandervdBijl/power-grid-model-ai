@@ -1,5 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2026 Contributors to the Power Grid Model project <powergridmodel@lfenergy.org>
 SPDX-FileCopyrightText: Contributors to the Power Grid Model project <powergridmodel@lfenergy.org>
 
 SPDX-License-Identifier: MPL-2.0
@@ -61,7 +60,7 @@ To install the skills into your coding agent run:
 
 ```bash
 # the skills package will ask you which skill you would like to install (pgm-assistant or pgm-issue-analysis)
-npx skills install https://github.com/BrightCubes/power-grid-model-ai
+https://github.com/PowerGridModel/power-grid-model-ai
 ```
 
 <br><br><br>
@@ -120,11 +119,11 @@ Please read [CODE_OF_CONDUCT](https://github.com/PowerGridModel/.github/blob/mai
 for submitting pull requests to us.
 
 ## Historical contributors
-Our gratitude goes to the following contributors who have worked (and are still working) on these services before it became open source:
+Our gratitude goes to the following contributors who have worked (and are still working) on these services in https://github.com/BrightCubes/power-grid-model-ai before it was contributed to the Power Grid Model organization:
 
 - Camiel Oerlemans (Bright Cubes)
 - Nitish Bharambe (Alliander)
-- Martijn Govers (Bright Cubes)
+- Martijn Govers (Bright Cubes, Alliander)
 
 ## Citations
 

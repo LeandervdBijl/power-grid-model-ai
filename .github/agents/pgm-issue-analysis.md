@@ -1,6 +1,5 @@
 ---
-# SPDX-FileCopyrightText: 2026 Contributors to the Power Grid Model project <powergridmodel@lfenergy.org>
-# SPDX-FileCopyrightText: Contributors to the Power Grid Model AI project <info@brightcubes.nl>
+# SPDX-FileCopyrightText: Contributors to the Power Grid Model project <powergridmodel@lfenergy.org>
 #
 # SPDX-License-Identifier: MPL-2.0
 
