@@ -56,12 +56,14 @@ Example prompt how to use the skill:
 ## Installation
 
 Skills are installed using `npx skills`, a package manager for agent skills. See [skills.sh](https://skills.sh) for more information.
-To install the skills into your coding agent run:
+To install the skills into your coding agent, run:
 
 ```bash
 # the skills package will ask you which skill you would like to install (pgm-assistant or pgm-issue-analysis)
-https://github.com/PowerGridModel/power-grid-model-ai
+npx skills install https://github.com/PowerGridModel/power-grid-model-ai
 ```
+
+or any similar skill installation command
 
 <br><br><br>
 
@@ -121,9 +123,9 @@ for submitting pull requests to us.
 ## Historical contributors
 Our gratitude goes to the following contributors who have worked (and are still working) on these services in https://github.com/BrightCubes/power-grid-model-ai before it was contributed to the Power Grid Model organization:
 
-- Camiel Oerlemans (Bright Cubes)
-- Nitish Bharambe (Alliander)
-- Martijn Govers (Bright Cubes, Alliander)
+- Camiel Oerlemans (Bright Cubes; GitHub: [@Cing2](https://github.com/Cing2))
+- Nitish Bharambe (Alliander; GitHub: [@nitbharambe](https://github.com/nitbharambe))
+- Martijn Govers (Bright Cubes, Alliander; GitHub: [@mgovers](https://github.com/mgovers))
 
 ## Citations
 

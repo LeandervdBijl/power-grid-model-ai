@@ -10,8 +10,6 @@ name: PGM skill update
 # opened as a pull request for human review — nothing is merged automatically.
 
 on:
-  schedule:
-    - cron: "0 6 * * 1" # Every Monday at 06:00 UTC
   workflow_dispatch: # Allow manual runs from the Actions tab
 
 # Avoid overlapping runs if a previous one is still going.
